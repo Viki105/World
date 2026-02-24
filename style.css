@@ -1,5 +1,4 @@
 *{margin: 0; padding: 0; box-sizing: border-box}
-
 h1{
     background-color: rgb(69, 68, 68);
     text-align: center;
@@ -7,8 +6,10 @@ h1{
     text-shadow: 5px;
     color: white;
 }
-
 p{
     text-align: center;
-    
+}
+footer{
+    background-color: rgb(64, 68, 67);
+    text-align: center;
 }
